@@ -1,0 +1,21 @@
+
+body {
+    font-family: Georgia;
+    color: black;
+    background: url("https://img.freepik.com/premium-photo/old-paper-vintage-aged-background-texture_34266-592.jpg?w=740");
+}
+
+img {
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;
+}
+
+a {
+    color: rgb(34, 23, 6);
+    text-decoration:none;
+    padding: 10px; 
+    margin: 5px;
+    background-color: rgb(231, 178, 97);
+    border-radius: 10px;
+}
