@@ -27,6 +27,16 @@ a:focus {
     box-shadow: 5px 5px 5px 0px rgb(50, 21, 21), inset 5px 5px 5px 0px rgb(50, 21, 21);;
 }
 
-footer {
-    background-image: linear-gradient(#E06F2B, brown);
+
+.wiki {
+    background-image: linear-gradient(#be6127, rgb(88, 41, 41));
+    line-height: 200px;
+    color: whitesmoke;
+
 }
+
+.info {
+    background-image: linear-gradient(rgb(238, 135, 75), brown);
+    color: whitesmoke;
+}
+
